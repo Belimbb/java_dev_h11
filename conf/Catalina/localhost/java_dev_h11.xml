@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="C:\Users\PC\Documents\GitHub\java_dev_h11\src\main\webapp">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="C:/Users/PC/Documents/GitHub/java_dev_h11/build/classes/java/main" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+    <PreResources base="C:/Users/PC/Documents/GitHub/java_dev_h11/build/resources/main" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+    <PostResources base="C:/Users/PC/.gradle/caches/modules-2/files-2.1/org.thymeleaf/thymeleaf/3.1.2.RELEASE/273997509a4c7aef86cee0521750140c587d9be2/thymeleaf-3.1.2.RELEASE.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/thymeleaf-3.1.2.RELEASE.jar"/>
+    <PostResources base="C:/Users/PC/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.4.14/d98bc162275134cdf1518774da4a2a17ef6fb94d/logback-classic-1.4.14.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/logback-classic-1.4.14.jar"/>
+    <PostResources base="C:/Users/PC/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.4.14/4d3c2248219ac0effeb380ed4c5280a80bf395e8/logback-core-1.4.14.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/logback-core-1.4.14.jar"/>
+    <PostResources base="C:/Users/PC/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/2.0.12/48f109a2a6d8f446c794f3e3fa0d86df0cdfa312/slf4j-api-2.0.12.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/slf4j-api-2.0.12.jar"/>
+    <PostResources base="C:/Users/PC/.gradle/caches/modules-2/files-2.1/ognl/ognl/3.3.4/1904789bdd96f226ad252a02f230be1015f4462b/ognl-3.3.4.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/ognl-3.3.4.jar"/>
+    <PostResources base="C:/Users/PC/.gradle/caches/modules-2/files-2.1/org.attoparser/attoparser/2.0.7.RELEASE/e5d0e988d9124139d645bb5872b24dfa23e283cc/attoparser-2.0.7.RELEASE.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/attoparser-2.0.7.RELEASE.jar"/>
+    <PostResources base="C:/Users/PC/.gradle/caches/modules-2/files-2.1/org.unbescape/unbescape/1.1.6.RELEASE/7b90360afb2b860e09e8347112800d12c12b2a13/unbescape-1.1.6.RELEASE.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/unbescape-1.1.6.RELEASE.jar"/>
+    <PostResources base="C:/Users/PC/.gradle/caches/modules-2/files-2.1/org.javassist/javassist/3.29.0-GA/d3959fa7e00bf04dbe519228a23213d2afb625d8/javassist-3.29.0-GA.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/javassist-3.29.0-GA.jar"/>
+  </Resources>
+</Context>
